@@ -4,7 +4,7 @@
 
 /*
 Assigned by:
-Dor_Bitton #203285630s
+Dor_Bitton #
 Class number: 0061104-61
 */
 
