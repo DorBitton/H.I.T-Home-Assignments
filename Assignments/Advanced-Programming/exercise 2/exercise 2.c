@@ -52,8 +52,7 @@ int main()
 
 /* Function definitions */
 
-// function to free matrix, but im getting a msg:"loading symbols for combase.dll"
-// couldnt find online solution that works for me.
+// function to free matrix
 void free_matrix(char **str, int n)
 {
 	int i;
