@@ -6,7 +6,7 @@
 
 /*
 Assigned by:
-Dor_Bitton #203285630
+Dor_Bitton #
 */
 
 /* Function declarations */
